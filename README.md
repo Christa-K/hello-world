@@ -1,2 +1,2 @@
 # hello-world
-I needed a tutorial to learn how to do this
+I have coded or read other people's code sporadically over the years, did half a PhD on Matlab (the other half was CFD) but I somehow still feel intimidated by coding. I am trying to learn new stuff relating to open-source CFD software (such as C++ for OpenFOAM) and data science (such as python and R, to make some use of all those statistics lessons) by doing online courses and such. I hope that learning in a structured way, rather than quickly trying to grasp concepts before using them in projects with time pressing and a million other things on my mind will help me get a better understanding of coding.
